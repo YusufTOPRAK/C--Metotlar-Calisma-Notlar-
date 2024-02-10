@@ -1,0 +1,7 @@
+C:\Users\tprky\OneDrive\Masaüstü\C# Eğitimi\Metotlar\Metotlar\bin\Debug\Metotlar.exe.config
+C:\Users\tprky\OneDrive\Masaüstü\C# Eğitimi\Metotlar\Metotlar\bin\Debug\Metotlar.exe
+C:\Users\tprky\OneDrive\Masaüstü\C# Eğitimi\Metotlar\Metotlar\bin\Debug\Metotlar.pdb
+C:\Users\tprky\OneDrive\Masaüstü\C# Eğitimi\Metotlar\Metotlar\obj\Debug\Metotlar.csproj.AssemblyReference.cache
+C:\Users\tprky\OneDrive\Masaüstü\C# Eğitimi\Metotlar\Metotlar\obj\Debug\Metotlar.csproj.CoreCompileInputs.cache
+C:\Users\tprky\OneDrive\Masaüstü\C# Eğitimi\Metotlar\Metotlar\obj\Debug\Metotlar.exe
+C:\Users\tprky\OneDrive\Masaüstü\C# Eğitimi\Metotlar\Metotlar\obj\Debug\Metotlar.pdb
